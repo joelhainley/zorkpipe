@@ -9,3 +9,7 @@ There's not much value to this, just a bit of a saturday morning goof.
 -- 
 
 I've been pulling the strings from this repo: https://github.com/historicalsource/zork1
+
+## open items
+* colorize the output from zorkpipe
+* 
